@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">About Me</string>
+    <string name="name">Paul Azeu</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio_text">Hi, my name is Paul Azeu
+        \n\nI am a Cameroonian who loves web and mobile development.
+        \n\n Every day, i learn something new to improve myself in development.
+
+        \n\n Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid blanditiis consectetur debitis dolor ducimus eum exercitationem explicabo ipsam iste laudantium magnam neque nisi qui quidem repellendus sunt ullam, unde vitae.
+        \n\n Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid blanditiis consectetur debitis dolor ducimus eum exercitationem explicabo ipsam iste laudantium magnam neque nisi qui quidem repellendus sunt ullam, unde vitae.
+        \n\n Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid blanditiis consectetur debitis dolor ducimus eum exercitationem explicabo ipsam iste laudantium magnam neque nisi qui quidem repellendus sunt ullam, unde vitae.
+    </string>
+    <string name="what_is_your_name">What is your name?</string>
+    <string name="done">Done</string>
 </resources>
